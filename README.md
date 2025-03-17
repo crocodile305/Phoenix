@@ -1,4 +1,4 @@
-# ProjectPhoenix
+# Phoenix
 
 Project Phoenix is a free public FiveM Roleplay server for anyone to use!  
 
@@ -33,16 +33,6 @@ We encourage developers to contribute to the project and help us improve the pro
 ## Community and Support
 
 Join our Discord server to connect with other developers, seek assistance, and stay up-to-date with the latest announcements and updates regarding Project Phoenix.
-
-[![Join our Discord server](https://discordapp.com/api/guilds/947662586164420619/widget.png?style=banner2)](https://dsc.gg/project-phoenix)
-
-## License
-
-Project Phoenix is released under the [GNU General Public License](LICENSE). You can redistribute it and/or modify it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
----
 
 Thank you for using Project Phoenix, If you have any issues you can speak with us in the dirscord linked above.
 
